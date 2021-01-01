@@ -1,4 +1,5 @@
 <template>
+  <h1>Test Vue Web App deployment using GitHub Actions</h1>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Varun's Vue.js App"/>
 </template>
